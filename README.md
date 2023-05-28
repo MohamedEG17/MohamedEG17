@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Esmat</h1>
 <h3 align="center">A senior-1 electronics engineering student seeking internships and learning opportunities in Digital IC Design.</h3>
 
+- 📫 How to reach me **mohamedesmatgad@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U6yjfRiejHFeiaeCH26OxSzYISrwGcAY/view?usp=sharing](https://drive.google.com/file/d/1U6yjfRiejHFeiaeCH26OxSzYISrwGcAY/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-esmat-1143b2223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-esmat-1143b2223/" height="30" width="40" /></a>
